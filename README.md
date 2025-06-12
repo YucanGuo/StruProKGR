@@ -1,5 +1,3 @@
-# StruProKGR
-
 StruProKGR: A Structural and Probabilistic Framework for Sparse Knowledge Graph Reasoning
 =========================================================================================
 
@@ -40,6 +38,17 @@ StruProKGR: A Structural and Probabilistic Framework for Sparse Knowledge Graph 
   ```
 
 >>>>>>> 326e9c8 (Initial commit)
+>>>>>>>
+>>>>>>
+>>>>>
+>>>>
+>>>
+>>
+
+=======
+StruProKGR: A Structural and Probabilistic Framework for Sparse Knowledge Graph Reasoning
+
+>>>>>>> 5927b328657cf0b2e660ea6d11fb85805504d48e
 >>>>>>>
 >>>>>>
 >>>>>
