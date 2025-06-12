@@ -1,7 +1,7 @@
 # StruProKGR
-<<<<<<< HEAD
+
 StruProKGR: A Structural and Probabilistic Framework for Sparse Knowledge Graph Reasoning
-=======
+=========================================================================================
 
 This is the official code release of the following paper:
 
@@ -38,4 +38,11 @@ StruProKGR: A Structural and Probabilistic Framework for Sparse Knowledge Graph 
   ```
   python StruProKGR.py --dataset WD-singer --test --max_num_programs 100 --max_path_len 6 --max_path_branch 30 --diminishing_factor 0.5 --decay_factor 0.2 --name_of_run WD-singer
   ```
+
 >>>>>>> 326e9c8 (Initial commit)
+>>>>>>>
+>>>>>>
+>>>>>
+>>>>
+>>>
+>>
